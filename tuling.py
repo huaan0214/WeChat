@@ -13,10 +13,3 @@ def getResponse(_info):
 
 	# 让我们打印一下返回的值，看一下我们拿到了什么
 	return r
-'''
-while(1):
-        
-        rrr=str(input('输入查询信息：'))
-        print(getResponse(rrr))
-'''
-#print(getResponse("早上好"))
